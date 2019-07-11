@@ -70,9 +70,9 @@
 * [Robust and Rapid Clustering of KPIs for Large-Scale Anomaly Detection](http://netman.ai/~peidan/ANM2018/8.DependencyDiscovery/LectureCoverage/2018IWQOS_ROCKA.pdf)
 
 ## Dataset
-* [Alibaba/clusterdata](https://github.com/alibaba/clusterdata)
-* [Azure/AzurePublicDataset](https://github.com/Azure/AzurePublicDataset)
-* [Google/cluster-data](https://github.com/google/cluster-data)
+* [Alibaba/clusterdata](https://github.com/alibaba/clusterdata)阿里云某 1.3k 规模集群的云主机、容器和后台任务的时序数据 .使用该数据集做的天池调度算法大赛第6名"地球漫步"的开源版本：https://github.com/NeuronEmpire/aliyun_schedule_semi
+* [Azure/AzurePublicDataset](https://github.com/Azure/AzurePublicDataset)  微软 Azure 云某区的云主机启停、 CPU 和内存时序数据
+* [Google/cluster-data](https://github.com/google/cluster-data)   谷歌 某 12.5k 规模集群的任务资源和机器数据
 * [The Numenta Anomaly Benchmark(NAB)](https://github.com/numenta/NAB)
 * [Yahoo: A Labeled Anomaly Detection Dataset](https://webscope.sandbox.yahoo.com/catalog.php?datatype=s&did=70)
 * [港中文loghub数据集](https://github.com/logpai/loghub)
